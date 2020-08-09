@@ -20,61 +20,80 @@ Examining attractor dynamics of head direction cells in the TgF344-AD rat model 
 
 ### Research interests
 
-My broad research interests surround the ability of animals to spatially orient within an environment. What fascinates me most about spatial orientation is how internally generated senses, such as self-motion or head direction, interact with external sensory inputs, such as vision, to create stable representations of orientation within an environment. I use both detailed behavioral analysis and in-vivo electrophysiological techniques to answer questions relating to 1.) How animals interact with prominant environemntal cues during spatial navigation or exploration and 2.) How the firing dynamics of populations of neurons change as a function of environment. Additionally, I am also investigating how neual systems associated with spatial orientation break down in Alzheimer's disease. My disseration work aims to describe the functional consequences of Alzheimer's disease pathology on the attractor dynamics in the TgF344-AD rat model of Alzheimer's disease. 
+My broad research interests surround the ability of animals to spatially orient within an environment. What fascinates me most about spatial orientation is how internally generated senses, such as self-motion or head direction, interact with external sensory inputs, such as vision, to create stable representations of orientation within an environment. I use both detailed behavioral analysis and in-vivo electrophysiological techniques to answer questions relating to 1.) How animals interact with prominant environemntal cues during spatial navigation or exploration and 2.) How the firing dynamics of populations of neurons change as a function of environment. Additionally, I am also investigating how altered functioning of neural systems may result in spatial disorientation, specifically related to Alzheimer's disease.  My disseration work aims to describe the functional consequences of Alzheimer's disease pathology on the attractor dynamics in the TgF344-AD rat model of Alzheimer's disease. 
 
 ## Education
 
 `2017 - 2021(expected)`
-__**PhD Psychology**, The University of New Mexico, Albuquerque.__
+**PhD Psychology**, The University of New Mexico, Albuquerque.
 
 `2015 - 2017`
-__**MSc. Psychology**, The University of New Mexico, Albuquerque.__
+**MSc. Psychology**, The University of New Mexico, Albuquerque.
 
 `2009 - 2014`
-__**BSc. Neuroscience (Special Major)**, California State University, Sacramento__
+**BSc. Neuroscience (Special Major)**, California State University, Sacramento.
 
 ## Experience 
 `2015 - 2021(expected)`
 Graduate Student, University of New Mexico, Mentor: Benjamin J. Clark
-- 
+- \- Functionality of spatial cell types in the TgF344-AD rat model of Alzheimer's disease
+
+`2013 - 2015`
+Clinical Research Coordinator, UC Davis MIND Institute, Mentor: Randi J. Hagerman
+- \- Investigation of genotype-phenotype relationships of the fragile X premutation and fragile X-associated tremor ataxia disorder. 
+- \- Phase 2b clinical trial of RG1662 in adults and adolescents with Down Syndrome (Clematis)
+- \- New approach for transitioning pediatric patients with special health care needs to adult care.  
+ 
+
+`2013 - 2015`
+Volunteer Research Assistant, UC Davis MIND Institute, Mentor: Randi J. Hagerman
+- \- Investigation of genotype-phenotype relationships of the fragile X premutation and fragile X-associated tremor ataxia disorder. 
+- \- Efficacy of Cogmed working memory training in children with fragile X syndrome. 
+
+`2011 - 2015`
+Laboratory Technition, California State University, Sacramento, Mentor: Jeffrey L. Calton
+- \- Effects of glutamate atagonism on Head Direction cell anchoring in novel environemnts  
+
+
+
 
 ## Additional Education 
 
 `2020`
-__**Neuromatch Academy Interactive Track**__
+**Neuromatch Academy Interactive Track**
 
 `2019`
-__**MIND Computational Summer School: Cognitive Maps**, Dartmouth College__
+**MIND Computational Summer School: Cognitive Maps**, Dartmouth College
 
 ## Awards
 
-#### 2019: 	
-* Doctoral Conference Presentation Award, *University of New Mexico*
+`2019`
+- \- Doctoral Conference Presentation Award, *University of New Mexico*
 
-* Travel Award, *University of New Mexico, Department of Psychology*
+- \- Travel Award, *University of New Mexico, Department of Psychology*
 
-#### 2018: 
-* Travel Award, *University of New Mexico, Department of Psychology*
+`2018` 
+- \- Travel Award, *University of New Mexico, Department of Psychology*
 
-#### 2017: 
-* Travel Award, *University of New Mexico, Department of Psychology*
-* Nomination Sarah Brown Belle Community Service Award, *University of New Mexico*
-* Honorable Mention NSF Graduate Research Fellowship
-* Student Conference Award Program Travel Award, *University of New Mexico, Office of Career Services*
-* Community Service Award, *University of New Mexico, Department of Psychology*
+`2017`
+- \- Travel Award, *University of New Mexico, Department of Psychology*
+- \- Nomination Sarah Brown Belle Community Service Award, *University of New Mexico*
+- \- Honorable Mention NSF Graduate Research Fellowship
+- \- Student Conference Award Program Travel Award, *University of New Mexico, Office of Career Services*
+- \- Community Service Award, *University of New Mexico, Department of Psychology*
 
 
-#### 2016:  	
-* Travel Award, *University of New Mexico, Department of Psychology*
-* Community Service Award, *University of New Mexico, Department of Psychology*
-* Nomination Sarah Brown Belle Community Service Award, *University of New Mexico*
+`2016` 	
+- \- Travel Award, *University of New Mexico, Department of Psychology*
+- \- Community Service Award, *University of New Mexico, Department of Psychology*
+- \- Nomination Sarah Brown Belle Community Service Award, *University of New Mexico*
 
-#### 2015: 
-* Grice Graduate Fellowship, *University of New Mexico*
-* Travel Award, *University of New Mexico, Department of Psychology*
+`2015`
+- \- Grice Graduate Fellowship, *University of New Mexico*
+- \- Travel Award, *University of New Mexico, Department of Psychology*
 
-#### 2013: 
-* Volunteer Research Award, *UC Davis MIND Institute*
+`2013`
+- \- Volunteer Research Award, *UC Davis MIND Institute*
 
 
 
