@@ -71,7 +71,6 @@ Laboratory Technition, California State University, Sacramento, Mentor: Jeffrey 
 
 `2019`
 - \- Doctoral Conference Presentation Award, *University of New Mexico*
-
 - \- Travel Award, *University of New Mexico, Department of Psychology*
 
 `2018` 
