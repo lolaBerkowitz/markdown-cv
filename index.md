@@ -16,9 +16,11 @@ Doctoral Candidate, University of New Mexico
 
 ## Currently
 
-Examining attractor dynamics of head direction cells in the TgF344-AD rat model of Alzheimer's disease.
+- \- Examining attractor dynamics of head direction cells in the TgF344-AD rat model of Alzheimer's disease.
+- \- Detailed behavioral analysis using [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
+- \- Learning the art of modelling neural systems
 
-### Research interests
+## Research interests
 
 My broad research interests surround the ability of animals to spatially orient within an environment. What fascinates me most about spatial orientation is how internally generated senses, such as self-motion or head direction, interact with external sensory inputs, such as vision, to create stable representations of orientation within an environment. I use both detailed behavioral analysis and in-vivo electrophysiological techniques to answer questions relating to 1.) How animals interact with prominant environemntal cues during spatial navigation or exploration and 2.) How the firing dynamics of populations of neurons change as a function of environment. Additionally, I am also investigating how altered functioning of neural systems may result in spatial disorientation, specifically related to Alzheimer's disease.  My disseration work aims to describe the functional consequences of Alzheimer's disease pathology on the attractor dynamics in the TgF344-AD rat model of Alzheimer's disease. 
 
@@ -82,7 +84,6 @@ Laboratory Technition, California State University, Sacramento, Mentor: Jeffrey 
 - \- Student Conference Award Program Travel Award, *University of New Mexico, Office of Career Services*
 - \- Community Service Award, *University of New Mexico, Department of Psychology*
 
-
 `2016` 	
 - \- Travel Award, *University of New Mexico, Department of Psychology*
 - \- Community Service Award, *University of New Mexico, Department of Psychology*
@@ -125,7 +126,41 @@ Au, J., **Berkowitz-Sutherland, LE.**, Andrea Schneider, Schweitzer, JB., Hessl,
 
 Au, J., Scott R. Akins, **Berkowitz-Sutherland, LE.**, Tang, H. T., Chen, Y., Boyd, A., ... & Hagerman, R. (2013). Prevalence and risk of migraine headaches in adult fragile X premutation carriers. *Clinical genetics*. [link]()
 
+## Conference Posters 
 
+Gabaldon-Parish, M., **Berkowitz, LE.**, Harvey, RE.., Sneddon, E., Clark, BJ. (2019). Distributed home base behavior in TgF344-AD rat model of Alzheimer’s disease. Poster presented at UNM Neuroscience day, Albuquerque, NM.
+
+Goncalaves-Garcia, M., Donaldson, T., **Berkowitz, LE.**, Harvey, R.E., Gabaldon-Parish, M., Sanchez, L.,Goss, J.K., Wagner, J., Davies, S., Tofighi, D., Savage, D.D., Clark, B.J. (2019). The effects of moderate prenatal alcohol exposure on the organization of exploratory behavior by adult female rats. Poster presented at UNM Neuroscience day, Albuquerque, NM.
+
+Harvey, RE., **Berkowitz, LE.**, Savage, DD., Hamilton, DA., & Clark, BJ. (2018). Spatial and temporal stability in CA1 hippocampal place cells following moderate prenatal alcohol exposure. Poster presented at the Society for Neuroscience Conference. San Diego, CA. 
+
+Harvey, RE., **Berkowitz, LE.**, Savage, D. D., Hamilton, DA., & Clark, BJ. (2018). Spatial and temporal deficits in hippocampal place cells following moderate prenatal alcohol exposure. Poster presented at FASD Awareness Day. Albuquerque, NM.  
+
+Harvey, RE., **Berkowitz, LE.**, Savage, D. D., Hamilton, DA.,  & Clark, BJ. (2018). Altered spatial coding of hippocampal place cells following moderate prenatal alcohol exposure. Poster presented at the International Conference on Learning and Memory. Huntington Beach, CA.  
+
+**Berkowitz, LE.**, Harvey, RE. & Clark, BJ. (2018). Characterization of Head Direction Cells in the TgF344-AD Rat Model of Alzheimer's Disease. Poster presented at the International Conference on Learning and Memory. Huntington Beach, CA.  
+
+Harvey, RE., **Berkowitz, LE.**, Savage, D. D., Hamilton, DA.,  & Clark, BJ. (2018). Reduced Spatial Coding of Hippocampal Place Cells Following Moderate Prenatal Alcohol Exposure. Poster presented at the Gordon Research Conference. Galveston, TX.
+
+Harvey, RE., Goss, JK., Rigg, T., **Berkowitz, LE.**, Lilliana M. Sanchez, Jennifer L. Wagner, Savage, DD., Hamilton, DA., Clark, BJ. (2017) Reduced spatial coding of hippocampal place cells following moderate prenatal alcohol exposure. Poster presented at the Society for Neuroscience Conference. Washington, DC. 
+
+**Berkowitz, LE.**, Thompson, SM., Drake, EN., John T. Madden, Elizabeth A. Sneddon, Harvey, RE., & Clark, BJ. (2017) Sex specific spatial navigation and spatial memory impairment in the TgF344-ad rat model of Alzheimer’s disease. Poster presented at the Society for Neuroscience Conference. Washington, DC.
+
+**Berkowitz, LE.**, Yang, Y., Geck, EN., Thompson, SM., Sillerud L., & Clark, BJ. (2016) Longitudinal assessment of Papez circuit structural change and spatial disorientation in the TgF344-AD transgenic rat model of Alzheimer’s disease. Poster presentation at Neuroscience Day, University of New Mexico. 
+
+**Berkowitz, LE.**, Yang, Y., Geck, EN., Thompson, SM., Laurel Sillerud & Clark, BJ. (2016) Longitudinal assessment of Papez circuit structural change and spatial disorientation in the TgF344-AD transgenic rat model of Alzheimer’s disease. Poster presentation at Psychology Research Day, University of New Mexico. 
+
+Pastor, IA., Ybarra, I., **Berkowitz, LE.**, Calton, JL. (2015) Absence of light-dependent magnetic field modulation of the head direction cell circuitry. Poster presentation at the Society for Neuroscience Annual Conference,  Chicago, Il.
+
+Amato, ME., Annette M. Rodriguez, **Berkowitz, LE.**, Ybarra, I. , Jessicah A. Jones, Pastor, IA., Calton, JL. (2014).  NMDA blockade and disorientation disrupts the establishment of a stable head direction signal.  Poster presentation at the Faculty for Undergraduate Neuroscience poster session, Society for Neuroscience Annual Conference,  Washington DC.
+
+Ybarra, I. , **Berkowitz, LE.**,  Jones, JA. , Amato, ME. , Rodriguez, AM., Housh AA., and Calton, JL. (2013). Blockade of NMDA transmission interferes with the stability of the head direction cell network during locomotion into a novel environment. Poster Presentation at the Faculty for Undergraduate Neuroscience poster session,  Society for Neuroscience Annual Conference, San Diego, CA.
+
+Au, J., Schneider, A., **Berkowitz-Sutherland, LE.**., Hessl, D., Hagerman, RJ., & Schweitzer, JB. (2012). Evaluation of Cogmed Working Memory Training in Fragile X Syndrome. Poster session presented at the 13th International Fragile X Conference, Miami, FL.
+
+**Berkowitz-Sutherland, LE.**, Housh, A., Kim, E., Zafar, T., Ramon, C., Ybarra, I.,  and Calton, JL. (2012) The role of NMDA transmission in the experience-dependent plasticity of thalamic head direction cells. Poster Presentation at the Faculty for Undergraduate Neuroscience poster session, Society for Neuroscience Annual Conference, New Orleans, LA.
+
+Kim, E., Housh, A., **Berkowitz-Sutherland, LE.**, and Calton, JL. (2011) Dose-dependent effect of NMDA blockade on the Head Direction System. Poster Presentation at the Faculty for Undergraduate Neuroscience poster session, Society for Neuroscience Annual Conference, Washington DC.
 
 <!-- ### Footer
 
