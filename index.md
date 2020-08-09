@@ -60,7 +60,6 @@ Laboratory Technition, California State University, Sacramento, Mentor: Jeffrey 
 
 
 ## Additional Education 
-
 `2020`
 **Neuromatch Academy Interactive Track**
 
@@ -68,7 +67,6 @@ Laboratory Technition, California State University, Sacramento, Mentor: Jeffrey 
 **MIND Computational Summer School: Cognitive Maps**, Dartmouth College
 
 ## Awards
-
 `2019`
 - \- Doctoral Conference Presentation Award, *University of New Mexico*
 - \- Travel Award, *University of New Mexico, Department of Psychology*
