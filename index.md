@@ -26,8 +26,8 @@ My research focuses on understanding the physiological and neural mechanisms und
 
 ## Education
 
-`2017 - 2021(expected)`
-**PhD Psychology**, The University of New Mexico, Albuquerque.
+`2017 - 2021`
+**PhD Psychology, minor Statistics**, The University of New Mexico, Albuquerque.
 
 `2015 - 2017`
 **MSc. Psychology**, The University of New Mexico, Albuquerque.
