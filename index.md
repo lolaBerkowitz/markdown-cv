@@ -3,26 +3,26 @@ layout: cv
 title: Laura Berkowitz's CV
 ---
 # Laura Berkowitz 
-Doctoral Candidate, University of New Mexico
+Postdoctoral Associate, Cornell University
 
-<a href="lberkowitz@unm.edu">lberkowitz@unm.edu</a>
+<a href="lberkowitz@unm.edu">leb239@cornell.edu</a>
 <div id="webaddress">
   <a href="https://github.com/lolaBerkowitz"><i class="fab fa-github"></i> lolaBerkowitz</a> -  
   <a href="https://orcid.org/0000-0002-4285-2995"><i class="ai ai-orcid"></i> 0000-0002-4285-2995</a> <br/>
   <a href="https://www.researchgate.net/profile/Laura_Berkowitz"><i class="ai ai-researchgate"></i> Laura_Berkowitz</a> - 
-  <a href="https://twitter.com/lauraberkowitz"><i class="fab fa-twitter"></i> @lauraberkowitz</a>
 </div>
 
 
 ## Currently
 
-- \- Examining attractor dynamics of head direction cells in the TgF344-AD rat model of Alzheimer's disease.
-- \- Detailed behavioral analysis using [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
-- \- Learning the art of modelling neural systems
+- \- Elucidating relationship between epileptiform activity and blood flow in models of Alzheimer's disease
+- \- Characterizing hippocampal-entorhinal alterations in models neurodegeneration and its role in memory impairment.
+- \- Detailed behavioral analysis using [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) and [ASOID](https://github.com/YttriLab/A-SOID) 
+- \- Development of closed-loop systems to prevent epilepsy and improve memory.
 
 ## Research interests
 
-My broad research interests surround the ability of animals to spatially orient within an environment. What fascinates me most about spatial orientation is how internally generated senses, such as self-motion or head direction, interact with external sensory inputs, such as vision, to create stable representations of orientation within an environment. I use both detailed behavioral analysis and in-vivo electrophysiological techniques to answer questions relating to 1.) How animals interact with prominant environemntal cues during spatial navigation or exploration and 2.) How the firing dynamics of populations of neurons change as a function of environment. Additionally, I am also investigating how altered functioning of neural systems may result in spatial disorientation, specifically related to Alzheimer's disease.  My disseration work aims to describe the functional consequences of Alzheimer's disease pathology on the attractor dynamics in the TgF344-AD rat model of Alzheimer's disease. 
+My research focuses on understanding the physiological and neural mechanisms underlying memory impairment in neurodegenerative diseases, particularly Alzheimer's disease. I am interested in elucidating the relationship between aberrant neural activity, such as epileptiform discharges, and changes in cerebral blood flow, as well as how these disruptions contribute to cognitive decline. Using advanced techniques, I characterize alterations in the hippocampal-entorhinal network—a critical circuit for memory—and investigate how neurodegeneration disrupts its function. I employ detailed behavioral analysis tools to quantify and interpret complex behavioral patterns in disease models to bridge neural activity with behavior. Additionally, I am actively involved in developing closed-loop systems designed to modulate neural activity, prevent epilepsy, and improve memory function. By integrating these approaches, my work aims to uncover the mechanisms linking neural dysfunction to memory impairment and to pioneer innovative therapeutic strategies for neurodegenerative diseases.
 
 ## Education
 
@@ -36,10 +36,15 @@ My broad research interests surround the ability of animals to spatially orient 
 **BSc. Neuroscience (Special Major)**, California State University, Sacramento.
 
 ## Experience 
-`2015 - 2021(expected)`
-Graduate Student, University of New Mexico, Mentor: Benjamin J. Clark
-- \- Functionality of spatial cell types in the TgF344-AD rat model of Alzheimer's disease
 
+2021 - present 
+Postdoctoral Associate, Cornell University, Mentors: Chris Schaffer and Nozomi Nishimura
+-\- Mechanisms of memory consolidation are rescued by preventing capillary stalling with anti-Ly6G antibodies
+
+`2015 - 2021
+Graduate Student, University of New Mexico, Mentor: Benjamin J. Clark
+- \- Attractor dynamics in anterior thalamic and postsubicular head direction cells in the TgF344-AD rat model of Alzheimer's disease
+  
 `2013 - 2015`
 Clinical Research Coordinator, UC Davis MIND Institute, Mentor: Randi J. Hagerman
 - \- Investigation of genotype-phenotype relationships of the fragile X premutation and fragile X-associated tremor ataxia disorder. 
@@ -67,6 +72,10 @@ Laboratory Technition, California State University, Sacramento, Mentor: Jeffrey 
 **MIND Computational Summer School: Cognitive Maps**, Dartmouth College
 
 ## Awards
+
+'2022-2023'
+- \- Cornell Neurotech Mong Fellowship
+
 `2019`
 - \- Doctoral Conference Presentation Award, *University of New Mexico*
 - \- Travel Award, *University of New Mexico, Department of Psychology*
@@ -98,6 +107,8 @@ Laboratory Technition, California State University, Sacramento, Mentor: Jeffrey 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=vJlkbHUAAAAJ&hl=en) -->
+
+Matthew Isaacson, Hongyu Chang, Laura Berkowitz, Rick Zirkel, Yusol Park, Danyu Hu, Ian Ellwood, Chris B Schaffer (2025). MouseGoggles: an immersive virtual reality headset for mouse neuroscience and behavior
 
 Harvey RE., **Berkowitz, LE.**, Savage, DD., Hamilton, DA., Clark, BJ. (2020). Altered hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure. *Current Biology*. [link]()
 
