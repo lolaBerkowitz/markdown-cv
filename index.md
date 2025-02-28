@@ -15,10 +15,10 @@ Postdoctoral Associate, Cornell University
 
 ## Currently
 
-- \- Elucidating relationship between epileptiform activity and blood flow in models of Alzheimer's disease
-- \- Characterizing hippocampal-entorhinal alterations in models neurodegeneration and its role in memory impairment.
-- \- Detailed behavioral analysis using [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) and [ASOID](https://github.com/YttriLab/A-SOID) 
-- \- Development of closed-loop systems to prevent epilepsy and improve memory.
+- Elucidating relationship between epileptiform activity and blood flow in models of Alzheimer's disease
+-  Characterizing hippocampal-entorhinal alterations in models neurodegeneration and its role in memory impairment.
+-  Detailed behavioral analysis using [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) and [ASOID](https://github.com/YttriLab/A-SOID) 
+-  Development of closed-loop systems to prevent epilepsy and improve memory.
 
 ## Research interests
 
@@ -37,29 +37,29 @@ My research focuses on understanding the physiological and neural mechanisms und
 
 ## Experience 
 
-2021 - present 
+`2021 - present` 
 Postdoctoral Associate, Cornell University, Mentors: Chris Schaffer and Nozomi Nishimura
--\- Mechanisms of memory consolidation are rescued by preventing capillary stalling with anti-Ly6G antibodies
+- Mechanisms of memory consolidation are rescued by preventing capillary stalling with anti-Ly6G antibodies
 
-`2015 - 2021
+`2015 - 2021`
 Graduate Student, University of New Mexico, Mentor: Benjamin J. Clark
-- \- Attractor dynamics in anterior thalamic and postsubicular head direction cells in the TgF344-AD rat model of Alzheimer's disease
+-  Attractor dynamics in anterior thalamic and postsubicular head direction cells in the TgF344-AD rat model of Alzheimer's disease
   
 `2013 - 2015`
 Clinical Research Coordinator, UC Davis MIND Institute, Mentor: Randi J. Hagerman
-- \- Investigation of genotype-phenotype relationships of the fragile X premutation and fragile X-associated tremor ataxia disorder. 
-- \- Phase 2b clinical trial of RG1662 in adults and adolescents with Down Syndrome (Clematis)
-- \- New approach for transitioning pediatric patients with special health care needs to adult care.  
+-  Investigation of genotype-phenotype relationships of the fragile X premutation and fragile X-associated tremor ataxia disorder. 
+-  Phase 2b clinical trial of RG1662 in adults and adolescents with Down Syndrome (Clematis)
+-  New approach for transitioning pediatric patients with special health care needs to adult care.  
  
 
 `2013 - 2015`
 Volunteer Research Assistant, UC Davis MIND Institute, Mentor: Randi J. Hagerman
-- \- Investigation of genotype-phenotype relationships of the fragile X premutation and fragile X-associated tremor ataxia disorder. 
-- \- Efficacy of Cogmed working memory training in children with fragile X syndrome. 
+-  Investigation of genotype-phenotype relationships of the fragile X premutation and fragile X-associated tremor ataxia disorder. 
+-  Efficacy of Cogmed working memory training in children with fragile X syndrome. 
 
 `2011 - 2015`
 Laboratory Technition, California State University, Sacramento, Mentor: Jeffrey L. Calton
-- \- Effects of glutamate atagonism on Head Direction cell anchoring in novel environemnts  
+-  Effects of glutamate atagonism on Head Direction cell anchoring in novel environemnts  
 
 
 
@@ -74,33 +74,33 @@ Laboratory Technition, California State University, Sacramento, Mentor: Jeffrey 
 ## Awards
 
 '2022-2023'
-- \- Cornell Neurotech Mong Fellowship
+-  Cornell Neurotech Mong Fellowship
 
 `2019`
-- \- Doctoral Conference Presentation Award, *University of New Mexico*
-- \- Travel Award, *University of New Mexico, Department of Psychology*
+-  Doctoral Conference Presentation Award, *University of New Mexico*
+-  Travel Award, *University of New Mexico, Department of Psychology*
 
 `2018` 
-- \- Travel Award, *University of New Mexico, Department of Psychology*
+-  Travel Award, *University of New Mexico, Department of Psychology*
 
 `2017`
-- \- Travel Award, *University of New Mexico, Department of Psychology*
-- \- Nomination Sarah Brown Belle Community Service Award, *University of New Mexico*
-- \- Honorable Mention NSF Graduate Research Fellowship
-- \- Student Conference Award Program Travel Award, *University of New Mexico, Office of Career Services*
-- \- Community Service Award, *University of New Mexico, Department of Psychology*
+-  Travel Award, *University of New Mexico, Department of Psychology*
+-  Nomination Sarah Brown Belle Community Service Award, *University of New Mexico*
+-  Honorable Mention NSF Graduate Research Fellowship
+-  Student Conference Award Program Travel Award, *University of New Mexico, Office of Career Services*
+-  Community Service Award, *University of New Mexico, Department of Psychology*
 
 `2016` 	
-- \- Travel Award, *University of New Mexico, Department of Psychology*
-- \- Community Service Award, *University of New Mexico, Department of Psychology*
-- \- Nomination Sarah Brown Belle Community Service Award, *University of New Mexico*
+-  Travel Award, *University of New Mexico, Department of Psychology*
+-  Community Service Award, *University of New Mexico, Department of Psychology*
+-  Nomination Sarah Brown Belle Community Service Award, *University of New Mexico*
 
 `2015`
-- \- Grice Graduate Fellowship, *University of New Mexico*
-- \- Travel Award, *University of New Mexico, Department of Psychology*
+-  Grice Graduate Fellowship, *University of New Mexico*
+-  Travel Award, *University of New Mexico, Department of Psychology*
 
 `2013`
-- \- Volunteer Research Award, *UC Davis MIND Institute*
+-  Volunteer Research Award, *UC Davis MIND Institute*
 
 
 
